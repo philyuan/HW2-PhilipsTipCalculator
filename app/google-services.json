@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443858694045",
+    "firebase_url": "https://philipstipcalculator.firebaseio.com",
+    "project_id": "philipstipcalculator",
+    "storage_bucket": "philipstipcalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443858694045:android:484b68e969460448",
+        "android_client_info": {
+          "package_name": "ec601.philipstipcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443858694045-3hvq27d9vmaj7605nsm32rbljhcafaue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ec601.philipstipcalculator",
+            "certificate_hash": "15e09cc952d605956dbfe3a69f2c82afb2a06292"
+          }
+        },
+        {
+          "client_id": "443858694045-qaisd2404jknncf86q55g50bi5csk8dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA02qQIS1FsWPPLrCgNoFRVlcEQYzvQ5Nk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443858694045-qaisd2404jknncf86q55g50bi5csk8dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
