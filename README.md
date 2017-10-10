@@ -1,3 +1,3 @@
 # HW2-PhilipsTipCalculator
 EC601 HW2
-Simple Tip Calculator on Android Studio
+Simple Tip Calculator on Android Studio With Firebase User Authentication
