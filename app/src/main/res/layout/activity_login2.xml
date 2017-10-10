@@ -30,7 +30,7 @@
         <EditText
             android:layout_margin="15dp"
             android:inputType="textEmailAddress"
-            android:hint="Enter email"
+            android:hint="Email:"
             android:id="@+id/et_email"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
@@ -41,7 +41,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="15dp"
             android:fontFamily="sans-serif"
-            android:hint="Enter password"
+            android:hint="Password:"
             android:inputType="textPassword" />
 
         <Button
@@ -59,7 +59,7 @@
             android:id="@+id/tv_signup"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="No account? Click here to sign up"
+            android:text="Click here to sign up"
             android:textAlignment="center"
             android:textColor="@android:color/holo_red_light" />
 

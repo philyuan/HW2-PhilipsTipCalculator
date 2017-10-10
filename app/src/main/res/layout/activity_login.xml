@@ -33,7 +33,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="15dp"
-            android:hint="Enter email"
+            android:hint="Email:"
             android:inputType="textEmailAddress" />
 
         <EditText
@@ -42,7 +42,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="15dp"
             android:fontFamily="sans-serif"
-            android:hint="Enter password"
+            android:hint="Password:"
             android:inputType="textPassword" />
 
         <Button
@@ -61,7 +61,7 @@
             android:id="@+id/tv_signin"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Click here to go back to sign in page"
+            android:text="Click here to sign in"
             android:textAlignment="center"
             android:textColor="@android:color/holo_red_light" />
 
